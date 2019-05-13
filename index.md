@@ -29,10 +29,10 @@ layout: default
 
 # Education
 
-#### Post Graduate Diploma, IT Infrastructure Systems and Security
+### Post Graduate Diploma, IT Infrastructure Systems and Security
 ##### CDAC, E-City Bangalore, India [2013-2014]
 
-#### Bachelors of Technology, Electronics and Telecommunication Engineering
+### Bachelors of Technology, Electronics and Telecommunication Engineering
 ##### NIT Raipur, India [2008-2012]
 
 # Contact
