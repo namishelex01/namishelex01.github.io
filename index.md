@@ -3,15 +3,15 @@ layout: default
 ---
 
 # Summary
-* 5+ Years of experience in Cloud Security, Infrastructure Security and Vulnerability Assessment
-* Actively plays CTFs on Hackthebox
-* BSI, India certified ISO/IEC 27001 Information Security Lead Implementer
-* Hands on experience in PDCA approach for ISO 27001 implementation in SME enterprises
-* Experience of configuration and security management on AWS cloud environment
-* Experience on VAPT of Web and Mobile applications
-* Learning analysis and ML implementation on gathered application and network logs
-* Automate Cyber intelligence gathering on Botnets, Abuse IPs, malware URLs, Tor nodes, etc using RaspberryPi
-* Won Blackberry App Challenge in Feb'2012
+*  5+ Years of experience in Cloud Security, Infrastructure Security and Vulnerability Assessment
+*  Actively plays CTFs on Hackthebox
+*  BSI, India certified ISO/IEC 27001 Information Security Lead Implementer
+*  Hands on experience in PDCA approach for ISO 27001 implementation in SME enterprises
+*  Experience of configuration and security management on AWS cloud environment
+*  Experience on VAPT of Web and Mobile applications
+*  Learning analysis and ML implementation on gathered application and network logs
+*  Automate Cyber intelligence gathering on Botnets, Abuse IPs, malware URLs, Tor nodes, etc using RaspberryPi
+*  Won Blackberry App Challenge in Feb'2012
 
 # Timeline
 
