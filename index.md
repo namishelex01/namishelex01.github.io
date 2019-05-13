@@ -17,10 +17,13 @@ layout: default
 
 ### Senior Security Analyst at Oracle Cloud Infrastructure 
 ###### December 2018 – Present
+
 ### Senior Security and Cloud Engineer at GOODERA 
 ###### March 2017 – December 2018 (1 year 10 months)
+
 ### Software Development Engineer in Test - II at FREECHARGE 
 ###### March 2016 - March 2017 (1 year 1 month)
+
 ### QA Engineer at CHAINALYTICS 
 ###### February 2014 - March 2016 (2 years 2 months)
 
@@ -28,14 +31,13 @@ layout: default
 
 #### Post Graduate Diploma, IT Infrastructure Systems and Security
 ##### CDAC, E-City Bangalore, India [2013-2014]
+
 #### Bachelors of Technology, Electronics and Telecommunication Engineering
 ##### NIT Raipur, India [2008-2012]
 
 # Contact
 
-<img src="/assets/css/lnl.png" alt="">
-
-![Linkedin](assets/css/lnl.png)
+![Linkedin](assets/css/lnk.png)
 
 ![Twitter](assets/css/twt.png)
 
