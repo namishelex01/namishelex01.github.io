@@ -3,6 +3,7 @@ layout: default
 ---
 
 # Summary
+
 *  5+ Years of experience in Cloud Security, Infrastructure Security and Vulnerability Assessment
 *  Actively plays CTFs on Hackthebox
 *  BSI, India certified ISO/IEC 27001 Information Security Lead Implementer
@@ -13,38 +14,35 @@ layout: default
 *  Automate Cyber intelligence gathering on Botnets, Abuse IPs, malware URLs, Tor nodes, etc using RaspberryPi
 *  Won Blackberry App Challenge in Feb'2012
 
+
 # Timeline
 
-### Senior Security Analyst at Oracle Cloud Infrastructure 
+### Senior Security Analyst | Oracle Cloud Infrastructure 
 ###### December 2018 – Present
 
-### Senior Security and Cloud Engineer at GOODERA 
+### Senior Security and Cloud Engineer | GOODERA 
 ###### March 2017 – December 2018 (1 year 10 months)
 
-### Software Development Engineer in Test - II at FREECHARGE 
+### Software Development Engineer in Test - II | FREECHARGE 
 ###### March 2016 - March 2017 (1 year 1 month)
 
-### QA Engineer at CHAINALYTICS 
+### QA Engineer | CHAINALYTICS 
 ###### February 2014 - March 2016 (2 years 2 months)
+
 
 # Education
 
 ### Post Graduate Diploma, IT Infrastructure Systems and Security
-##### CDAC, E-City Bangalore, India [2013-2014]
+###### CDAC, E-City Bangalore, India [2013-2014]
 
 ### Bachelors of Technology, Electronics and Telecommunication Engineering
-##### NIT Raipur, India [2008-2012]
+###### NIT Raipur, India [2008-2012]
 
 # Contact
 
 [![Linkedin](assets/css/lnk.png)](https://www.linkedin.com/in/namishc/)  
 [![Twitter](assets/css/twt.png)](https://twitter.com/namishsir)
 
-
 ```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
+Valar Morghulis
 ```
