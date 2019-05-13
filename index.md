@@ -37,9 +37,9 @@ layout: default
 
 # Contact
 
-[![Linkedin](assets/css/lnk.png)][https://www.linkedin.com/in/namishc/]
+[![Linkedin](assets/css/lnk.png)](https://www.linkedin.com/in/namishc/)
 
-[![Twitter](assets/css/twt.png)][https://twitter.com/namishsir]
+[![Twitter](assets/css/twt.png)](https://twitter.com/namishsir)
 
 This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
 
