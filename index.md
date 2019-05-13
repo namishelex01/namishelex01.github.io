@@ -32,6 +32,9 @@ layout: default
 ##### NIT Raipur, India [2008-2012]
 
 # Contact
+
+<img src="/assets/css/lnl.png" alt="">
+
 ![Linkedin](assets/css/lnl.png)
 
 ![Twitter](assets/css/twt.png)
