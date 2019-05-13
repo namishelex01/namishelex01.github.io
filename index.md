@@ -23,6 +23,7 @@ There should be whitespace between paragraphs. We recommend including a README, 
 * Won Blackberry App Challenge in Feb'2012
 
 # Timeline
+
 ### Senior Security Analyst at Oracle Cloud Infrastructure 
 ###### December 2018 – Present
 ### Senior Security and Cloud Engineer at GOODERA 
@@ -33,6 +34,7 @@ There should be whitespace between paragraphs. We recommend including a README, 
 ###### February 2014 - March 2016 (2 years 2 months)
 
 # Education
+
 #### Post Graduate Diploma, IT Infrastructure Systems and Security
 ##### CDAC, E-City Bangalore, India [2013-2014]
 #### Bachelors of Technology, Electronics and Telecommunication Engineering
