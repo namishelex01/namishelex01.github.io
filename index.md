@@ -4,7 +4,7 @@ layout: default
 
 # Summary
 
-*  5+ Years of experience in Cloud Security, Infrastructure Security and Vulnerability Assessment
+*  Experience in Cloud Security, Threat hunting & detections, Vulnerability Assessment and automation
 *  Actively plays CTFs on Hackthebox
 *  BSI, India certified ISO/IEC 27001 Information Security Lead Implementer
 *  Hands on experience in PDCA approach for ISO 27001 implementation in SME enterprises
@@ -44,5 +44,5 @@ layout: default
 [![Twitter](assets/css/twt.png)](https://twitter.com/namishsir)
 
 ```
-Valar Morghulis
+Security is a Myth
 ```
