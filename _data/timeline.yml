@@ -17,45 +17,82 @@
 #     - tag: Rails
 #   timeline-side: right
 
-- title: airbnb
-  title-url: https://example.com/
-  date: Sep 2019 - Present
-  subtitle: Fullstack Developer
+- title: Monese
+  title-url: https://monese.com/
+  date: Jan 2020 - Present
+  subtitle: AWS Cyber security analyst
   tags:
-    - tag: React
-    - tag: Javascript
-    - tag: Ruby
-    - tag: Rails
-  timeline-side: right
-
-- title: Google
-  title-url: https://example.com/
-  date: Mar 2019 - Sep 2019
-  subtitle: Software Engineer as Intern
-  tags:
-    - tag: Flutter
-    - tag: Dart
-    - tag: Keycloak
-  timeline-side: right
-
-- title: Super University
-  title-url: https://example.com/
-  date: 2017 - 2019
-  subtitle: M.Sc. Computer Science
+    - tag: DevSecOps
+    - tag: Terraform
+    - tag: Python
+    - tag: Snowflake
+    - tag: Forensics
+    - tag: Incident response
+    - tag: AWS
   timeline-side: left
 
-- title: Facebook
-  title-url: https://example.com/
-  date: Sep 2017 - Mar 2019
-  subtitle: Front-End Developer as Intern
+- title: Oracle
+  title-url: https://oracle.com/
+  date: Dec 2018 - Jan 2020
+  subtitle: Sr. Security Analyst
   tags:
-    - tag: React
-    - tag: Node
-    - tag: Javascript
+    - tag: Threat hunting
+    - tag: Linux
+    - tag: Python
+    - tag: Splunk
+    - tag: Slack bot automation
+    - tag: OCI
   timeline-side: right
 
-- title: Super University
-  title-url: https://example.com/
-  date: 2014 - 2017
-  subtitle: B.A. Computer Science
+- title: Goodera
+  title-url: https://goodera.com/
+  date: Mar 2017 - Dec 2018
+  subtitle: Senior Security and Cloud Engineer
+  tags:
+    - tag: DevSecOps
+    - tag: Javascript
+    - tag: Python
+    - tag: ISO 27001
+    - tag: SIEM Engineer
+    - tag: AWS
+    - tag: Azure
+  timeline-side: left
+
+- title: FreeCharge
+  title-url: https://freecharge.in/
+  date: Mar 2016 - Mar 2017
+  subtitle: SDET - II
+  tags:
+    - tag: API testing
+    - tag: Testing Automation
+    - tag: Burp Suite
+    - tag: Jmeter
+    - tag: Application Security testing
+  timeline-side: right
+
+- title: Chainalytics
+  title-url: https://chainalytics.com/
+  date: Feb 2014 - Mar 2016
+  subtitle: QA Engineer
+  tags:
+    - tag: API testing
+    - tag: Testing Automation
+    - tag: SQL
+    - tag: IIS
+  timeline-side: left
+
+- title: CDAC E-City, Bangalore
+  title-url: https://cdac.in/
+  date: 2013 - 2014
+  subtitle: P.G. Diploma in IT Infrastructure, Systems and Security
+  tags:
+    - tag: Cyber security
+    - tag: Cloud Management
+    - tag: Application Security
+  timeline-side: right
+
+- title: National Institute of Technology, Raipur
+  title-url: http://www.nitrr.ac.in/
+  date: 2008 - 2012
+  subtitle: B. Tech. Electronics and Telecommunication
   timeline-side: left

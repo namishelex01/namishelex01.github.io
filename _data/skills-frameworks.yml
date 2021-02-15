@@ -5,29 +5,18 @@
 # - name: Framework
 #   weight: 5
 
-- name: Angular
+- name: ISO 27001
   weight: 5
 
-- name: AngularJS
+- name: GDPR
   weight: 3
 
-- name: React
-  weight: 4
-
-- name: Node
-  weight: 1
-
-- name: Flutter
-  weight: 2
-
-- name: Express
+  name: NIST
   weight: 3
 
-- name: Django
-  weight: 1
-
-- name: Spring
+- name: PCI DSS
   weight: 2
 
-- name: Rails
-  weight: 4
+- name: BC & DR
+  weight: 1
+
