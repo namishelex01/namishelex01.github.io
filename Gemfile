@@ -1,3 +1,6 @@
-source 'https://rubygems.org'
+source "https://rubygems.org"
 
-gemspec
+gem "dotenv"
+gem "github-pages"
+gem "jekyll"
+gem "jekyll-github-metadata"
