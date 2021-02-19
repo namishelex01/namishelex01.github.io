@@ -2,13 +2,15 @@
   "ExpandedNodes": [
     "",
     "\\assets",
+    "\\assets\\css",
     "\\assets\\favicon",
+    "\\assets\\img",
     "\\assets\\js",
-    "\\_data",
     "\\_includes",
     "\\_js",
-    "\\_layouts"
+    "\\_layouts",
+    "\\_sass"
   ],
-  "SelectedNode": "\\assets\\favicon\\site.webmanifest",
+  "SelectedNode": "\\assets\\css\\main.min.css",
   "PreviewInSolutionExplorer": false
 }
