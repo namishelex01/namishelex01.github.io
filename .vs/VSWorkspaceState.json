@@ -1,7 +1,14 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\assets",
+    "\\assets\\favicon",
+    "\\assets\\js",
+    "\\_data",
+    "\\_includes",
+    "\\_js",
+    "\\_layouts"
   ],
-  "SelectedNode": "\\LICENSE",
+  "SelectedNode": "\\assets\\favicon\\site.webmanifest",
   "PreviewInSolutionExplorer": false
 }
