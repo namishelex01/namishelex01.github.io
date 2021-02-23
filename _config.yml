@@ -2,9 +2,10 @@
 
 # GENERAL SITE SETTINGS
 # title: This will be displayed as the website's name in your browser tab.
-title: Namish Chaturvedi
+title: Namish Chaturvedi | Professional Portfolio
+tagline: This page is dedicated to all my friends who forced me to create this to impress all the recruiters
 # description: This will be meta HTML tag content. This can be ignored.
-description: Online portfolio powered by Jekyll
+description: Namish Chaturvedi's online portfolio powered by Jekyll and Github
 # baseurl: The subpath of your site
 # > set this to "", if you renamed the repository to <user>.github.io
 baseurl: ""
@@ -116,6 +117,8 @@ google-analytics:
 
 plugins:
   - "jekyll-github-metadata"
+  - "jekyll-sitemap"
+  - "jekyll-seo-tag"
 
 exclude:
   [
