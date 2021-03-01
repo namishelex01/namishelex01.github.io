@@ -1,6 +1,7 @@
 {
   "ExpandedNodes": [
     "",
+<<<<<<< Updated upstream
     "\\assets",
     "\\assets\\css",
     "\\assets\\favicon",
@@ -12,5 +13,13 @@
     "\\_sass"
   ],
   "SelectedNode": "\\assets\\css\\main.min.css",
+=======
+    "\\_data",
+    "\\_includes",
+    "\\_layouts",
+    "\\_posts"
+  ],
+  "SelectedNode": "\\_includes\\section-projects.html",
+>>>>>>> Stashed changes
   "PreviewInSolutionExplorer": false
 }
