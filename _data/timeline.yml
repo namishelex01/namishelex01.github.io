@@ -17,9 +17,25 @@
 #     - tag: Rails
 #   timeline-side: right
 
+- title: Snowflake
+  title-url: https://snowflake.com/
+  date: Oct 2021 - Present
+  subtitle: Senior Software Engineer
+  tags:
+    - tag: DevSecOps
+    - tag: Terraform
+    - tag: Python
+    - tag: Snowflake
+    - tag: Cloud Automation
+    - tag: Incident response
+    - tag: AWS
+    - tag: Azure
+    - tag: GCP
+  timeline-side: left
+
 - title: Monese
   title-url: https://monese.com/
-  date: Jan 2020 - Present
+  date: Jan 2020 - Sept 2021
   subtitle: AWS Cyber security analyst
   tags:
     - tag: DevSecOps
@@ -29,7 +45,7 @@
     - tag: Forensics
     - tag: Incident response
     - tag: AWS
-  timeline-side: left
+  timeline-side: right
 
 - title: Oracle
   title-url: https://oracle.com/
@@ -42,7 +58,7 @@
     - tag: Splunk
     - tag: Slack bot automation
     - tag: OCI
-  timeline-side: right
+  timeline-side: left
 
 - title: Goodera
   title-url: https://goodera.com/
@@ -56,7 +72,7 @@
     - tag: SIEM Engineer
     - tag: AWS
     - tag: Azure
-  timeline-side: left
+  timeline-side: right
 
 - title: FreeCharge
   title-url: https://freecharge.in/
@@ -68,7 +84,7 @@
     - tag: Burp Suite
     - tag: Jmeter
     - tag: Application Security testing
-  timeline-side: right
+  timeline-side: left
 
 - title: Chainalytics
   title-url: https://chainalytics.com/
@@ -79,7 +95,7 @@
     - tag: Testing Automation
     - tag: SQL
     - tag: IIS
-  timeline-side: left
+  timeline-side: right
 
 - title: CDAC E-City, Bangalore
   title-url: https://cdac.in/
@@ -89,10 +105,10 @@
     - tag: Cyber security
     - tag: Cloud Management
     - tag: Application Security
-  timeline-side: right
+  timeline-side: left
 
 - title: National Institute of Technology, Raipur
   title-url: http://www.nitrr.ac.in/
   date: 2008 - 2012
   subtitle: B. Tech. Electronics and Telecommunication
-  timeline-side: left
+  timeline-side: right

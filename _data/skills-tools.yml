@@ -20,6 +20,9 @@
 - name: AWS
   weight: 5
 
+- name: Azure
+  weight: 2
+
 - name: GCP
   weight: 2
 
