@@ -34,7 +34,7 @@ show_aboutme_card: false
 # about_me_title: The will be displayed as the title in the About Me section
 about_me_title: About Me
 # about_me_description: This will be displayed under the title.
-about_me_description: Expertise in Application & Cloud security, Log Analysis, Threat hunting, IR, Forensics and Automation
+about_me_description: Application & Cloud Security, Threat hunting
 
 # SKILLS SECTION
 # show_skills_card:
@@ -69,6 +69,11 @@ projects_title: Personal Interests
 # show_os_projects:
 # > setting this to true, will display your public projects on github
 # > setting this to false, will omit your public projects on github
+
+show_quotes_card: true
+show_quotes: true
+quotes_title: WhoamI
+
 show_os_projects: false
 # os_projects_title: The will be displayed as the title of your open source projects
 os_projects_title: Open Source Projects

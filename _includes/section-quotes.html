@@ -1,0 +1,30 @@
+<!-- show_quotes_card: true -->
+<!-- show_quotes: true -->
+<!-- quotes_title: Describing my work -->
+
+{% if site.show_quotes %}
+  <h1 class="title"><span>{{site.quotes_title}}</span></h1>
+  <div class="quotes-wrapper">
+    {% for quotes in site.data.quotes %}
+      <div class="quotes neumorphism-card" data-aos="zoom-in-down">
+        <div class="name-link-wrapper">
+          <h2>{{quotes.name}}</h2>
+        </div>
+        <p class="quotes-desc">{{quotes.descr}}</p>
+        {% if quotes.demo %}
+          <a class="highlight-link" href="{{quotes.demo}}" target="_blank" rel="noreferrer">
+            Demo
+          </a>
+        {% endif %}
+        {% if quotes.tags %}
+          <div class="tag-wrapper">
+            {% for tag in quotes.tags %}
+              <span class="tag neumorphism-card">{{tag.tag}}</span>
+            {% endfor %}
+          </div>
+        {% endif %}
+      </div>
+    {% endfor %}
+  </div>
+{% endif %}
+
