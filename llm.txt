@@ -1,0 +1,41 @@
+name: Namish
+website: https://namish.me
+email: namishelex01@gmail.com
+location: Warszawa, PL
+title: Cyber Security Engineer | Cloud Security & Security Tooling Specialist
+
+summary: Cyber security engineer with a strong background in cloud security, threat detection, and AI-driven security automation. Experienced in building and maintaining internal security tools, developing scalable detection pipelines, and securing cloud-native environments (AWS, GCP, Kubernetes). Passionate about simplifying complex security operations through open-source technologies and automation.
+
+skills:
+  - Cloud Security (AWS, GCP)
+  - Kubernetes Security (KSPM, CSPM, runtime sensors)
+  - Security Automation & Tooling
+  - Vulnerability Management & Remediation Workflows
+  - Infrastructure as Code (Terraform, Pulumi)
+  - Python, Bash, Go
+  - SIEMs (Splunk, ELK), Wiz, Lacework
+  - IAM Hardening & Posture Management
+  - AI+RAG for Threat Detection and automation (LLMs, anomaly detection)
+
+experience:
+  - 2022–Present: DevSecOps Engineer at Box
+    - Built custom automation to enrich and triage cloud and platform misconfiguration alerts periodically using security tools.
+    - Developed an ML-based scoring model to prioritize vulnerabilities using CVSS, EPSS, and exploit feeds.
+
+projects:
+  - Portfolio: https://namish.me
+  - Tooling Experiments: https://namish.me/#projects
+
+education:
+  - B.Tech in Electronics and Communication — NIT Raipur, 2012
+  - PG Diploma in IT Infrastructure, Systems and Security - CDAC Bangalore, 2014
+  - Pursuing CISSP Certification (Target: 2025)
+
+social:
+  github: https://github.com/namishelex01
+  linkedin: https://www.linkedin.com/in/namishc
+  twitter: https://x.com/namishsir
+
+availability: Open to security engineering roles, remote or hybrid, focused on cloud security, automation, or AI.
+
+keywords: cyber security engineer, cloud security, security automation, AI security, Wiz, Lacework, Kubernetes, vulnerability management, LLM security, CSPM, SIEM, EPSS, IAM, London

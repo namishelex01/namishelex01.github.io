@@ -17,9 +17,24 @@
 #     - tag: Rails
 #   timeline-side: right
 
+- title: Box
+  title-url: https://snowflake.com/
+  date: Jan 2024 - Present
+  subtitle: DevSecOps Engineer
+  tags:
+    - tag: DevSecOps
+    - tag: Terraform
+    - tag: Python
+    - tag: Cloud Automation
+    - tag: AWS
+    - tag: Azure
+    - tag: GCP
+    - tag: LLM
+  timeline-side: right
+
 - title: Snowflake
   title-url: https://snowflake.com/
-  date: Oct 2021 - Present
+  date: Oct 2021 - Dec 2023
   subtitle: Product Security Engineer
   tags:
     - tag: DevSecOps

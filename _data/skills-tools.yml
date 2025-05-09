@@ -5,8 +5,11 @@
 # - name: Git
 #   weight: 5
 
-- name: NMap
+- name: LLM
   weight: 5
+
+- name: NMap
+  weight: 4
 
 - name: Nessus
   weight: 3
@@ -24,7 +27,7 @@
   weight: 2
 
 - name: GCP
-  weight: 2
+  weight: 3
 
 - name: OCI
   weight: 2
@@ -34,6 +37,4 @@
 
 - name: Nikto
   weight: 3
-  
-- name: iOS App security
-  weight: 1
+
