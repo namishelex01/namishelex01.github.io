@@ -1,0 +1,181 @@
+Namish Chaturvedi
+
+DevSecOps Engineer III        namishelex01@gmail.com                linkedin.com/in/namishc
+Warsaw, Poland
+Namish Chaturvedi
+
+Warsaw, Poland                namishelex01@gmail.com  linkedin.com/in/namishc
+
+SUMMARY
+
+Security engineer with 11+ years securing large‑scale multi‑cloud and Kubernetes environments.
+Hands‑on expertise in runtime telemetry, vulnerability management, distributed security agents, and
+cloud infrastructure hardening. Experienced in building automated detection pipelines, policy‑as‑code,
+and AI‑driven enrichment workflows to improve signal fidelity, reduce noise, and accelerate incident
+response.
+Security Engineer with 11+ years of experience leading security architecture and platform engineering across
+enterprise multi-cloud and Kubernetes environments. Expert in runtime security, Linux internals, eBPF,
+cloud-native security, and detection engineering, with a proven ability to translate security strategy into
+production-scale solutions. Has led enterprise programmes covering security architecture, technology evaluation,
+platform modernisation, deployment governance, and operational excellence, partnering with engineering,
+infrastructure, and product teams to deliver resilient, fault-tolerant security capabilities. Passionate about
+building scalable security platforms that improve visibility, automate detection, and enable secure software
+delivery without impacting developer velocity or production reliability.
+
+EXPERIENCE
+
+DevSecOps Engineer III — Box                                        Jan 2024 – Present
+
+●​ Secure AWS, GCP, and Azure workloads with automated security agent deployment
+    pipelines.
+
+●​ Operate runtime security sensors and telemetry across Kubernetes and Linux fleets.
+●​ Drive vulnerability management workflows and remediation automation across cloud
+
+    platforms.
+●​ Introduce AI/RAG‑based enrichment to improve detection quality and triage speed.
+
+Product Security Engineer — Snowflake                               Oct 2021 – Dec 2023
+
+●​ Maintained distributed security agents across multi‑cloud and Kubernetes
+    environments.
+
+●​ Automated evidence collection for host and container events to accelerate
+    investigations.
+
+●​ Implemented policy‑as‑code guardrails and cloud‑security automation.
+DevSecOps Engineer III — Box                          Jan 2024 – Present
+
+●​ Led the enterprise-wide evaluation, architecture, and production rollout of runtime security
+     platforms across Kubernetes and Linux VM environments, owning the programme from
+     requirements gathering and vendor assessment through production deployment and operational
+     governance.
+
+●​ Architected the migration from legacy kernel module–based runtime detection to modern
+     eBPF-native security platforms, improving observability, reducing operational complexity, and
+     enabling safer production deployments across multi-cloud infrastructure.
+
+●​ Designed resilient deployment strategies for security sensors, including canary rollouts and
+     production validation frameworks, achieving zero production incidents while establishing
+     repeatable deployment standards across engineering teams.
+
+●​ Defined security architecture, technical standards, and operational baselines for runtime
+     security, endpoint visibility, Kubernetes auditing, and cloud-native detection capabilities,
+     partnering with engineering, platform, infrastructure, and SRE teams.
+
+●​ Led technical evaluations and proof-of-concepts for enterprise security technologies, developing
+     comprehensive testing frameworks to assess detection coverage, performance, scalability,
+     operational impact, and production readiness.
+
+●​ Built and operationalised cloud-native security capabilities across large-scale multi-cloud
+     environments, including runtime detection pipelines, Kubernetes metadata enrichment,
+     vulnerability management, and engineering enablement through security standards,
+     documentation, and technical guidance.
+
+Product Security Engineer — Snowflake                 Oct 2021 – Dec 2023
+
+●​ Maintained distributed security agents across multi‑cloud and Kubernetes environments.
+●​ Automated evidence collection for host and container events to accelerate investigations.
+●​ Implemented policy‑as‑code guardrails and cloud‑security automation.
+
+AWS Cyber Security Analyst — Monese                                 Jan 2020 – Aug 2021
+
+●​ Built serverless automated cloud misconfiguration detection and response pipelines.
+●​ Designed scalable SIEM architecture with Terraform and cloud‑data lake backend.
+●​ Developed detections across CloudTrail, DB, VPC, and application telemetry sources.
+
+Senior Security Analyst — Oracle Cloud                              Dec 2018 – Jan 2020
+
+●​ Engineered and deployed security detections across global regions.
+●​ Automated rollout of detection logic and alerting pipelines.
+●​ Performed threat hunts and Linux telemetry tuning for observability.
+
+Senior Security & Cloud Engineer — Goodera                          Mar 2017 – Dec 2018
+
+●​ Built a complete cloud security program as sole security owner.
+●​ Implemented SIEM automation, server hardening, and CIS benchmarks.
+AWS Cyber Security Analyst — Monese                   Jan 2020 – Aug 2021
+
+●​ Built serverless automated cloud misconfiguration detection and response pipelines.
+●​ Designed scalable SIEM architecture with Terraform and cloud‑data lake backend.
+●​ Developed detections across CloudTrail, DB, VPC, and application telemetry sources.
+Senior Security Analyst — Oracle Cloud                                   Dec 2018 – Jan 2020
+
+●​ Engineered and deployed security detections across global regions.
+●​ Automated rollout of detection logic and alerting pipelines.
+●​ Performed threat hunts and Linux telemetry tuning for observability.
+
+Senior Security & Cloud Engineer — Goodera                               Mar 2017 – Dec 2018
+
+●​ Built a complete cloud security program as sole security owner.
+●​ Implemented SIEM automation, server hardening, and CIS benchmarks.
+
+Software Development Engineer in Test II — Freecharge  Mar 2016 – Mar 2017
+
+●​ Delivered web UI and API automation using Java + Selenium; strengthened test coverage
+    for core payment flows.
+
+●​ Performed performance and security testing for high‑traffic web services; supported PCI
+    readiness.
+
+●​ Introduced automation practices that reduced manual regression effort and sped up
+    releases.
+
+QA Engineer — Chainalytics                             Feb 2014 – Mar 2016
+
+●​ Built automated test suites (Java + Selenium) for logistics web applications.
+●​ Conducted API performance testing with JMeter; identified bottlenecks and improved
+
+    SLAs.
+●​ Executed functional testing across complex business workflows to ensure release
+
+    quality.
+
+SKILLS
+
+●​ Cloud: AWS, GCP, Azure, Oracle          ●​ Vulnerability management & Posture
+                                               automation
+●​ Kubernetes & Linux security
+                                           ●​ AI‑powered enrichment & RAG for
+●​ Runtime defense, Infra hardening,           detection engineering
+   eBPF‑based telemetry, SIEM & telemetry
+   pipelines                               ●​ Python, Bash, Terraform
+
+EDUCATION & CERTIFICATIONS
+
+ PG Diploma                  IT Infra & Security, CDAC Bengaluru (2013‑2014)
+ B.Tech                      Electronics & Telecommunication, NIT Raipur (2008‑2012)
+ ISO 27001 Lead Implementer
+
+​
+Software Development Engineer in Test II — Freecharge                    Mar 2016 – Mar 2017
+
+●​ Delivered web UI and API automation using Java + Selenium; strengthened test coverage for core
+     payment flows.
+
+●​ Performed performance and security testing for high‑traffic web services; supported PCI
+     readiness.
+
+●​ Introduced automation practices that reduced manual regression effort and sped up releases.
+
+QA Engineer — Chainalytics                                               Feb 2014 – Mar 2016
+
+●​ Built automated test suites (Java + Selenium) for logistics web applications.
+●​ Conducted API performance testing with JMeter; identified bottlenecks and improved SLAs.
+●​ Executed functional testing across complex business workflows to ensure release quality.
+
+SKILLS                                                 ●​ Vulnerability management & Posture
+                                                            automation
+ ●​ Cloud: AWS, GCP, Azure, Oracle
+                                                       ●​ AI‑powered enrichment & RAG for
+ ●​ Kubernetes & Linux security                             detection engineering
+
+ ●​ Runtime defense, Infra hardening, eBPF‑based       ●​ Python, Bash, Terraform
+     telemetry, SIEM & telemetry pipelines
+
+EDUCATION & CERTIFICATIONS
+
+PG Diploma                  IT Infra & Security, CDAC Bengaluru (2013‑2014)
+B.Tech                      Electronics & Telecommunication, NIT Raipur (2008‑2012)
+ISO 27001 Lead Implementer
+
